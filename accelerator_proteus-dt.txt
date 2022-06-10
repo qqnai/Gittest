@@ -1,0 +1,11 @@
+---
+title: "PROTEUS-DT"
+description: "PROTEUS Design & Tech. We build systems."
+type: "accelerator startup"
+category: "No-Code, Test"
+summary: "Spaceman"
+file: "https://proteus-dt.com/wp-content/uploads/2022/04/Proteus-Logo-w.png"
+image: 
+link: "https://www.proteus-dt.com"
+status: "open"
+---
