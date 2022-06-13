@@ -1,0 +1,14 @@
+---
+title: "accelerator-startup 3"
+description: "Description Testing for accelerator-startup 3"
+type: "accelerator-startup"
+category: "HTML, CSS"
+summary: "Summary Testing for accelerator-startup 3"
+file: "https://proteus-dt.com/wp-content/uploads/2022/04/Proteus-Logo-w.png"
+image:
+link: "https://www.facebook.com"
+status: "complete"
+
+
+
+---

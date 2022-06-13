@@ -1,0 +1,14 @@
+---
+title: "starter-kit 5"
+description: "Description Testing for starter-kit 5"
+type: "starter-kit"
+category: "mentorship"
+summary: "Summary Testing for starter-kit 5"
+file: "https://proteus-dt.com/wp-content/uploads/2022/04/Proteus-Logo-w.png"
+image:
+link: "https://jacksonpollock.org/"
+status: "ongoing"
+
+
+
+---

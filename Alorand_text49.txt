@@ -1,0 +1,14 @@
+---
+title: "accelerator-startup 9"
+description: "Description Testing for accelerator-startup 9"
+type: "accelerator-startup"
+category: "Business"
+summary: "Summary Testing for accelerator-startup 9"
+file: "https://proteus-dt.com/wp-content/uploads/2022/04/Proteus-Logo-w.png"
+image:
+link: "https://www.bubble.com"
+status: "complete"
+
+
+
+---

@@ -1,0 +1,14 @@
+---
+title: "hackathon-winner 7"
+description: "Description Testing for hackathon-winner 7"
+type: "hackathon-winner"
+category: "Insights, Competition"
+summary: "Summary Testing for hackathon-winner 7"
+file: "https://proteus-dt.com/wp-content/uploads/2022/04/Proteus-Logo-w.png"
+image:
+link: "https://floatingqrcode.com/"
+status: "complete"
+
+
+
+---

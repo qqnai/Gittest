@@ -1,0 +1,14 @@
+---
+title: "accelerator-startup 8"
+description: "Description Testing for accelerator-startup 8"
+type: "accelerator-startup"
+category: "fast-paced, sprint"
+summary: "Summary Testing for accelerator-startup 8"
+file: "https://proteus-dt.com/wp-content/uploads/2022/04/Proteus-Logo-w.png"
+image:
+link: "https://puginarug.com/"
+status: "ongoing"
+
+
+
+---
