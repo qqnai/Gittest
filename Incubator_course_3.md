@@ -1,5 +1,5 @@
 ---
-title: "IncubatorProject@3"
+title: "IncubatorProject 3"
 description: "Description Testing for IncubatorProject@3."
 type: "incubator-project"
 category: "Test,Development,Demo IncubatorProject@3"

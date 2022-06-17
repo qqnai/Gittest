@@ -1,5 +1,5 @@
 ---
-title: "Tutorial@1"
+title: "Tutorial 1"
 description: "Description Testing for Tutorial@1."
 type: "tutorial"
 category: "Test,Development,Demo Tutorial@1"
